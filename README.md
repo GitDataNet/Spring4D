@@ -10,6 +10,8 @@ Installation
 ------------
 Just run the Build.exe and select the Delphi versions you want to install Spring4D for.
 
+Since we provide Delphinus-Support you can also easily install it using the Delphinus package manager.
+
 Current version
 ---------------
 1.1 (2014-09-12)
